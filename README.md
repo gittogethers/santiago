@@ -1,6 +1,6 @@
 # GitTogether Santiago de Chile 🇨🇱 🚀
 
-Join us for GitTogether Santiago – the ultimate gathering for developers in and around Bengaluru, India. Powered by GitHub and led by passionate GitHub Community Leaders, our events cover diverse topics such as AI, Open Source, Security, and more. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level. India is expected to become the largest developer community on GitHub by 2027. Join us for this community initiative, shape the future of software, and connect with India's brightest minds in technology.
+Únete a nosotros en GitTogether Santiago de Chile: el encuentro definitivo para desarrolladores en y alrededor de Santiago, Chile. Impulsado por GitHub y liderado por apasionados Líderes de la Comunidad de GitHub, nuestros eventos cubren diversos temas como IA, Código Abierto, Seguridad y más. Participa en discusiones, talleres y oportunidades de networking con colegas afines, sin importar tu nivel de habilidad. Se espera que India se convierta en la comunidad de desarrolladores más grande en GitHub para el 2027. Únete a esta iniciativa comunitaria, da forma al futuro del software y conecta con las mentes más brillantes de la tecnología en India.
 
 ## Upcoming Events ✨
 
@@ -12,7 +12,7 @@ Join us for GitTogether Santiago – the ultimate gathering for developers in an
 
 | Date | Title | Resources |
 |---|---|---|
-| 2024-01-29 | Virtual Kickoff| [Link to Slides/Recording](https://www.youtube.com/watch?v=fvuGSOb8JEQ)| 
+| 2024-01-29 | Virtual Kickoff| [Enlace a la grabacion](https://www.youtube.com/watch?v=fvuGSOb8JEQ)
 
 ## Cómo Participar
 
