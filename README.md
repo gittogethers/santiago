@@ -18,20 +18,18 @@
 
 **¿Quieres hablar en un evento?**
 
-1. Envia tu propuesta a nuestra "Convocatoria de Ponentes" abierta en la página del evento.
+1. Envia tu propuesta a nuestra [Convocatoria de Ponentes](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9G1c0vPfslFhNNRVR_7V3tUQzgwNFZVMEMwV0IyUVRYUzVUMjFSTzJHTS4u).
 2. Sigue las instrucciones para enviar tu propuesta de charla.
 
 **¿Quieres asistir?**
 
-1. Explora los próximos eventos.
+1. Explora los próximos [eventos](https://www.meetup.com/gittogether-santiago/).
 2. Regístrate a través de los enlaces de registro proporcionados.
 
 **¿Tienes comentarios, quieres sugerir un tema o contribuir de otras formas?**
 
 ¡Nos encantaría saber de ti!
-
-* Crea un "issue" en este repositorio.
-* Inicia una discusión en la pestaña de Discusiones.
+* Inicia una discusión en la pestaña de [Discusiones](https://github.com/gittogethers/santiago/discussions/).
 
 ## Código de Conducta 🤝
 
@@ -40,6 +38,6 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 ## ¡Mantente Conectado!
 
 * **Síguenos en redes sociales:** [https://twitter.com/githubcommunity](https://twitter.com/githubcommunity)
-* **Únete a nuestras discusiones comunitarias:** 
+* **Únete a nuestras discusiones comunitarias:** [https://github.com/gittogethers/santiago/discussions/](https://github.com/gittogethers/santiago/discussions/)
 
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Santiago de Chile!
