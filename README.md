@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-04-10 | [Community kickoff presencial]() | [Registro:](https://www.meetup.com/gittogether-santiago/events/300041624/) | 
+| 2024-04-10 | [Community kickoff presencial]() | [Registro](https://www.meetup.com/gittogether-santiago/events/300041624/) | 
 
 ## Past Events 
 
