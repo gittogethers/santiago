@@ -39,7 +39,7 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 
 ## ¡Mantente Conectado!
 
-* **Síguenos en redes sociales:** (Agrega enlaces a Twitter, etc., si corresponde)
-* **Únete a nuestras discusiones comunitarias:** (Agrega el enlace si estás usando Discord/Slack, etc.)
+* **Síguenos en redes sociales:** [https://twitter.com/githubcommunity](https://twitter.com/githubcommunity)
+* **Únete a nuestras discusiones comunitarias:** 
 
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Santiago de Chile!
