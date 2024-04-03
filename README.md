@@ -7,6 +7,7 @@
 | Date | Title | Registration Link |
 |---|---|---|
 | 2024-04-10 | [Community kickoff presencial]() | [Registro](https://www.meetup.com/gittogether-santiago/events/300041624/) | 
+| 2024-04-12 | [Comunidad en Nerdearla Chile]() | [Registro]([https://www.meetup.com/gittogether-santiago/events/300041624/](https://nerdear.la/es/) | 
 
 ## Past Events 
 
