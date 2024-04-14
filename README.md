@@ -6,13 +6,14 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-04-10 | [Community kickoff presencial]() | [Registro](https://www.meetup.com/gittogether-santiago/events/300041624/) | 
-| 2024-04-12 | [Comunidad en Nerdearla Chile]() | [Registro](https://nerdear.la/es/) | 
+Coming Soon
 
 ## Past Events 
 
 | Date | Title | Resources |
 |---|---|---|
+| 2024-04-12 | GitTogether Santiago en Nerdearla Chile | [Enlace a la grabación](https://nerdear.la/es/) | 
+| 2024-04-10 | GitTogether Santiago kickoff presencial | [Enlace a la grabación](https://www.linkedin.com/events/envivodesdeaeipbellavistagittog7183930313968881665/theater/) | 
 | 2024-01-29 | Virtual Kickoff| [Enlace a la grabacion](https://www.youtube.com/watch?v=fvuGSOb8JEQ)
 
 ## Cómo Participar
@@ -38,7 +39,7 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 
 ## ¡Mantente Conectado!
 
-* **Síguenos en redes sociales:** [https://twitter.com/githubcommunity](https://twitter.com/githubcommunity)
+* **Síguenos en redes sociales:** [Twitter](https://twitter.com/githubcommunity) [Linkedin](https://www.linkedin.com/groups/13015077/)
 * **Únete a nuestras discusiones comunitarias:** [https://github.com/gittogethers/santiago/discussions/](https://github.com/gittogethers/santiago/discussions/)
 
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Santiago de Chile!
