@@ -12,7 +12,7 @@ Coming Soon
 
 | Date | Title | Resources |
 |---|---|---|
-| 2024-04-12 | GitTogether Santiago en Nerdearla Chile | [Enlace a la grabación - Diego Vallejos]([https://nerdear.la/es/](https://www.youtube.com/watch?v=XxDTvGSmtp8) | 
+| 2024-04-12 | GitTogether Santiago en Nerdearla Chile | [Enlace a la grabación - Diego Vallejos](https://www.youtube.com/watch?v=XxDTvGSmtp8) | 
 | 2024-04-10 | GitTogether Santiago kickoff presencial | [Enlace a la grabación](https://www.linkedin.com/events/envivodesdeaeipbellavistagittog7183930313968881665/theater/) | 
 | 2024-01-29 | Virtual Kickoff| [Enlace a la grabacion](https://www.youtube.com/watch?v=fvuGSOb8JEQ)
 
