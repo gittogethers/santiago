@@ -39,7 +39,17 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 
 ## ¡Mantente Conectado!
 
-* **Síguenos en redes sociales:** [Twitter](https://twitter.com/githubcommunity) [Linkedin](https://www.linkedin.com/groups/13015077/)
+* **Síguenos en redes sociales:** [Twitter](https://twitter.com/githubcommunity) [Linkedin](https://www.linkedin.com/groups/13015077/) [Whatssapp](...)
 * **Únete a nuestras discusiones comunitarias:** [https://github.com/gittogethers/santiago/discussions/](https://github.com/gittogethers/santiago/discussions/)
+
+## Conoce a tus Líderes
+| Diego Vallejos | Oliver Fierro |
+|---|---|
+|<img src="https://github.com/gittogethers/santiago/assets/34281776/12dbb9bc-25a2-42da-a44a-0b4799e74082" width="200" height="200">|<img src="https://github.com/gittogethers/santiago/assets/34281776/2c0a609d-65ce-4893-975d-ef7864a5a75c" width="200" height="200" alingn="center">|
+| @dvalleit | @oliverfierro77 |
+| GitHub Community Leader | GitHub Community Leader |
+| Santiago, Chile | Santiago, Chile |
+| [<img src="https://github.com/gittogethers/santiago/assets/34281776/6a0736ba-0be3-4ba1-a9bf-f40ef7fc1720" width="50" height="50">](https://www.linkedin.com/in/diego-vallejos-galvez/) | [<img src="https://github.com/gittogethers/santiago/assets/34281776/6a0736ba-0be3-4ba1-a9bf-f40ef7fc1720" width="50" height="50">](https://www.linkedin.com/in/oliverfierro/) |
+
 
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Santiago de Chile!
