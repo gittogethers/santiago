@@ -39,7 +39,7 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 
 ## ¡Mantente Conectado!
 
-* **Síguenos en redes sociales:** [Twitter](https://twitter.com/githubcommunity) [Linkedin](https://www.linkedin.com/groups/13015077/) [Whatssapp](...)
+* **Síguenos en redes sociales:** [Twitter](https://twitter.com/githubcommunity) [Linkedin](https://www.linkedin.com/groups/13015077/) [Whatssapp](https://chat.whatsapp.com/GMhLxBdhMSeE5Yk7qEadcy)
 * **Únete a nuestras discusiones comunitarias:** [https://github.com/gittogethers/santiago/discussions/](https://github.com/gittogethers/santiago/discussions/)
 
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Santiago de Chile!
