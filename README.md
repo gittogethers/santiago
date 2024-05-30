@@ -35,7 +35,7 @@ Coming Soon
 
 ## Código de Conducta 🤝
 
-Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor, sé respetuoso en tus interacciones y adhiérete a nuestro Código de Conducta (enlace al Código de Conducta) y a las [Código de Conducta](https://docs.github.com/es/site-policy/github-terms/github-community-guidelines) de GitHub.
+Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor, sé respetuoso en tus interacciones y adhiérete a nuestro [Código de Conducta](https://docs.github.com/es/site-policy/github-terms/github-community-guidelines) de GitHub.
 
 ## ¡Mantente Conectado!
 
